@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppSQLiteDemoMT", "CppSQLiteDemoMT.vcxproj", "{15FA0EB4-A4CC-4C1A-B0ED-9597D8C5AF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FA0EB4-A4CC-4C1A-B0ED-9597D8C5AF17}.Debug|x86.ActiveCfg = Debug|Win32
+		{15FA0EB4-A4CC-4C1A-B0ED-9597D8C5AF17}.Debug|x86.Build.0 = Debug|Win32
+		{15FA0EB4-A4CC-4C1A-B0ED-9597D8C5AF17}.Release|x86.ActiveCfg = Release|Win32
+		{15FA0EB4-A4CC-4C1A-B0ED-9597D8C5AF17}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE192E6-1555-42F8-BEE4-59933A0A100A}
+	EndGlobalSection
+EndGlobal
